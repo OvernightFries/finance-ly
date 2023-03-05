@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/icons-material": "^5.11.11",
+    "@mui/material": "^5.11.11",
+    "@mui/styled-engine-sc": "^5.11.11",
+    "axios": "^1.3.4",
+    "styled-components": "^5.3.8",
+    "name": "flask_react",
+    "version": "0.1.0",
+    "private": "true",
+    "proxy": "http://localhost:5000/profile"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "start-backend": "cd backend/env/Scripts && flask run --no-debugger", 
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+}
