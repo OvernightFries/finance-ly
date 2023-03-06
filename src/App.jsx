@@ -6,6 +6,7 @@ import "./App.css";
 import Title from "./components/Title";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
+import Admin from "./components/Admin"
 
 function App() {
 
