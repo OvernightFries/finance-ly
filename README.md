@@ -1,6 +1,8 @@
 // Data.json file are samples taken from ChatGPT, and are
 // not meant to be taken literally. 
 
+// Entering venv on vsc mac --> source /Users/ukingsle24/Desktop/finance.ly/backend/myvenv/bin/activate
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
