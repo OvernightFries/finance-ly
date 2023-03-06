@@ -4,6 +4,7 @@ node_modules
 
 #other
 backend/env
+backend/myvenv
 backend/__pycache__
 
 # dependencies
