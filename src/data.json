@@ -1,0 +1,140 @@
+{
+  "people": [
+    {
+      "name": "John Smith",
+      "age": 32,
+      "gender": "male",
+      "occupation": "engineer",
+      "income": 75000,
+      "tax_rate": 0.25,
+      "savings": 40000,
+      "assets": {
+        "home": 250000,
+        "investments": 50000,
+        "retirement": 100000
+      },
+      "debt": {
+        "mortgage": 150000,
+        "credit_card": 5000,
+        "student_loan": 20000
+      }
+    },
+    {
+      "name": "Mary Johnson",
+      "age": 28,
+      "gender": "female",
+      "occupation": "teacher",
+      "income": 45000,
+      "tax_rate": 0.15,
+      "savings": 20000,
+      "assets": {
+        "home": 200000,
+        "investments": 10000,
+        "retirement": 50000
+      },
+      "debt": {
+        "mortgage": 100000,
+        "credit_card": 1000,
+        "student_loan": 8000
+      }
+    },
+    {
+      "name": "David Lee",
+      "age": 42,
+      "gender": "male",
+      "occupation": "lawyer",
+      "income": 120000,
+      "tax_rate": 0.3,
+      "savings": 75000,
+      "assets": {
+        "home": 500000,
+        "investments": 100000,
+        "retirement": 200000
+      },
+      "debt": {
+        "mortgage": 350000,
+        "credit_card": 20000,
+        "student_loan": 0
+      }
+    },
+    {
+      "name": "Sarah Chen",
+      "age": 29,
+      "gender": "female",
+      "occupation": "software engineer",
+      "income": 90000,
+      "tax_rate": 0.2,
+      "savings": 50000,
+      "assets": {
+        "home": 300000,
+        "investments": 80000,
+        "retirement": 50000
+      },
+      "debt": {
+        "mortgage": 200000,
+        "credit_card": 5000,
+        "student_loan": 25000
+      }
+    },
+    {
+      "name": "Michael Brown",
+      "age": 50,
+      "gender": "male",
+      "occupation": "doctor",
+      "income": 250000,
+      "tax_rate": 0.35,
+      "savings": 150000,
+      "assets": {
+        "home": 1000000,
+        "investments": 500000,
+        "retirement": 500000
+      },
+      "debt": {
+        "mortgage": 750000,
+        "credit_card": 10000,
+        "student_loan": 0
+      }
+    },
+    {
+      "name": "Emily Davis",
+      "age": 34,
+      "gender": "female",
+      "occupation": "marketing manager",
+      "income": 80000,
+      "tax_rate": 0.2,
+      "savings": 40000,
+      "assets": {
+        "home": 400000,
+        "investments": 50000,
+        "retirement": 100000
+      },
+      "debt": {
+        "mortgage": 100000,
+        "credit_card": 5000,
+        "student_loan": 50000
+      }
+    },
+    {
+      "name": "Andrew Kim",
+      "age": 42,
+      "gender": "Male",
+      "occupation": "Surgeon",
+      "income": 180000,
+      "tax_rate": 0.4,
+      "savings": 120000,
+      "assets": 350000,
+      "debt": 100000
+    },
+    {
+      "name": "Stephanie Park",
+      "age": 27,
+      "gender": "Female",
+      "occupation": "Graphic Designer",
+      "income": 55000,
+      "tax_rate": 0.18,
+      "savings": 35000,
+      "assets": 80000,
+      "debt": 15000
+    }
+  ]
+}
