@@ -6,6 +6,7 @@ import "./App.css";
 import Title from "./components/Title";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
+import Topbody from "./components/Topbody"
 import Admin from "./components/Admin"
 
 function App() {
@@ -35,6 +36,8 @@ function App() {
     <div className="App">
       <Title />
      <Header />
+
+     <Topbody />
 
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />

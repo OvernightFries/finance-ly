@@ -11,6 +11,10 @@ export default function Header() {
       Button variant="outlined" size="Large">
         Button2
       </Button>
+      <Button
+      Button variant="outlined" size="Large">
+        Button2
+      </Button>
 
     </div>
   );
